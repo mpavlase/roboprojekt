@@ -1,5 +1,6 @@
 # RoboProject
 *Advanced PyLadies CZ Course*
+zmena
 
 This course was created primarilly for those who succesfully passed the PyLadies beginner courses and want to continue with Python via "real" project. It should show participants the process of software development from the very basics, and enable them to try it on their own. It is focused on team cooperation, using Python for real tasks, working with Git and GitHub, showing best practices and trying various useful tools. 
 
