@@ -23,6 +23,7 @@ python -m pip install -r requirements.txtxtxtxt
 For testing of this project we use [pytest](https://docs.pytest.org/en/latest/) framework. If you want to run the tests and don't have pytest on your computer, you can install it with the following command:
 ```
 python -m pip install pytest
+# extra comment
 ```
 
 ### The game
