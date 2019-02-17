@@ -8,7 +8,7 @@ The assignment of this project is transforming board game RoboRally to computer 
 
 You can follow the progress on our [blog](https://roboprojekt.pyladies.cz/).
 
-Please note that the game is still in progress and the current version is not playable.
+Please *note* that the game is still in progress and the current version is not playable.
 
 ### Requirements
 
