@@ -59,7 +59,7 @@ To run the tests, write the following command into the command line: `python -m 
 
 If you want to run only one of the testing files, add the name of the file after the command above. 
 
-### Create your own map
+### Create your own map source
 
 Current maps were created in [Tiled](https://www.mapeditor.org/) map editor. 
 You can create your own map by using one of the prepared maps as a template as it contains the tileset used for the game.
