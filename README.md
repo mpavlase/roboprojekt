@@ -47,6 +47,7 @@ Once the "choosing cards" phase ends, the following steps will repeat 5 times:
 3. Robots are shooting
 4. If robot stands on the right flag tile, the flag is collected
 5. If robot stands on the repair tile, the start position changes
+6. That's it.
 
 After this phase is complete, the robots standing on the repair tile or in Power Down mode repair themselves and the next round begins.
 
