@@ -32,7 +32,7 @@ python -m pip install pytest
 
 To run the game you need to open the `game.py` module in the command line:
 ```
-python game.py
+python game.python
 ```
 
 **How do you win and how does the game round look like?**
