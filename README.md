@@ -17,7 +17,7 @@ We recommend to use virtual environment.
 
 To succesfully run the project, run the script below. It will install all the requirements including [pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) library.
 ```
-python -m pip install -r requirements.txt
+python -m pip install -r requirements.txtxtxtxt
 ```
 
 For testing of this project we use [pytest](https://docs.pytest.org/en/latest/) framework. If you want to run the tests and don't have pytest on your computer, you can install it with the following command:
